@@ -1,0 +1,8 @@
+opensearch-py
+dotenv
+requests
+crewai
+langchain-core
+langchain-ollama
+
+-e .
